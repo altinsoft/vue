@@ -173,24 +173,24 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://js.devexpress.com/" target="_blank">
+        <a href="https://www.nedemek.net" title="nedir" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/devexpress.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://fastcoding.jp/javascript/ " target="_blank">
+        <a href="https://www.cpanellicense.org" title="cpanel license" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/fastcoding_inc.svg?sanitize=true">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://usave.co.uk/utilities/broadband" target="_blank">
+        <a href="https://www.plesklicense.net" title="plesk license" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/usave.png">
         </a>
       </td>
     </tr><tr></tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://www.foo.software" target="_blank">
+        <a href="https://www.plesklisans.net" title="plesk lisans" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/foo.png">
         </a>
       </td>
