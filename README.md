@@ -63,7 +63,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
     </tr><tr></tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://www.storyblok.com" target="_blank">
+        <a href="https://sanalsunucular.blogspot.com/2020/10/faydal-linkler.html" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/storyblok.png">
         </a>
       </td>
